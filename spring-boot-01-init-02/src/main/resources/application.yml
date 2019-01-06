@@ -1,0 +1,11 @@
+server:
+  port: 8081
+
+emp:
+  lastName: wangzunbin
+  age: 22
+  salary: 10000
+  fortes:
+    - java
+    - python
+    - hadoop
